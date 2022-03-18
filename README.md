@@ -1,4 +1,4 @@
-###Hi 👋, I'm Sayro Damaceno
+### Hi 👋, I'm Sayro Damaceno
 
 I am a web development student looking to become a great professional in the field
 
@@ -8,7 +8,7 @@ I am a web development student looking to become a great professional in the fie
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayro-damaceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-####Tools and technologies:
+#### Tools and technologies:
 <p align="left">
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -51,7 +51,7 @@ I am a web development student looking to become a great professional in the fie
 </p>
 </p>
 
-####Contacts:
+#### Contacts:
 <div>
   <a href="https://instagram.com/sayrodamaceno/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
