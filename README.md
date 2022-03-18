@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ####Tools and technologies:
 <p align="left">
 <p>
@@ -40,3 +41,4 @@
   </a>
 </p>
 </p>
+=======
