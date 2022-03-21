@@ -1,6 +1,6 @@
 ###Hi 👋, I'm Sayro Damaceno
 
-I am a web development student looking to become a great professional in the field
+I am a web development student looking to become a great professional in this area.
 
 <div>
   <a href="https://github.com/sayro-damaceno">
